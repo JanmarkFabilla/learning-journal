@@ -9,3 +9,5 @@ Sept 24 2026- I've currently learned about "cp" command, i've learned how to cop
 (5:19 pm)- I downloaded tealdeer which used to be tldr, now it should greatly help me whenever i forget some basic use of a command.
 
 Sept 28 2026- learned more about the rm command tonight.
+
+Sept 29 2026- Currently strugggling with the "find" command.
