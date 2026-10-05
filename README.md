@@ -11,3 +11,5 @@ Sept 24 2026- I've currently learned about "cp" command, i've learned how to cop
 Sept 28 2026- learned more about the rm command tonight.
 
 Sept 29 2026- Currently strugggling with the "find" command.
+
+Oct 05 2026- Attempted to set up an Ubuntu VM for SOC home lab practice. Installed GNOME Boxes, libvirt, and virt-manager; troubleshot apt IPv4 issues; created test VMs. Encountered install hangs caused by the QXL display driver and host RAM contention. Migrated to virt-manager for better hardware control. Key takeaway: use Virtio display + 4 GB RAM + correct boot order for a smooth install. Next Task: complete the VM setup.
